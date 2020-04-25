@@ -1,0 +1,310 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		158A96F0245490DB004EF371 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158A96EF245490DB004EF371 /* AppDelegate.swift */; };
+		158A96F2245490DB004EF371 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158A96F1245490DB004EF371 /* ViewController.swift */; };
+		158A96F5245490DB004EF371 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 158A96F3245490DB004EF371 /* Main.storyboard */; };
+		158A96F8245490DB004EF371 /* PedidosPicasso.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 158A96F6245490DB004EF371 /* PedidosPicasso.xcdatamodeld */; };
+		158A96FA245490DB004EF371 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 158A96F9245490DB004EF371 /* Assets.xcassets */; };
+		158A96FD245490DB004EF371 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 158A96FB245490DB004EF371 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		158A96EC245490DA004EF371 /* PedidosPicasso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PedidosPicasso.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		158A96EF245490DB004EF371 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		158A96F1245490DB004EF371 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		158A96F4245490DB004EF371 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		158A96F7245490DB004EF371 /* PedidosPicasso.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PedidosPicasso.xcdatamodel; sourceTree = "<group>"; };
+		158A96F9245490DB004EF371 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		158A96FC245490DB004EF371 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		158A96FE245490DB004EF371 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		158A96E9245490DA004EF371 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		158A96E3245490DA004EF371 = {
+			isa = PBXGroup;
+			children = (
+				158A96EE245490DB004EF371 /* PedidosPicasso */,
+				158A96ED245490DA004EF371 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		158A96ED245490DA004EF371 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				158A96EC245490DA004EF371 /* PedidosPicasso.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		158A96EE245490DB004EF371 /* PedidosPicasso */ = {
+			isa = PBXGroup;
+			children = (
+				158A96EF245490DB004EF371 /* AppDelegate.swift */,
+				158A96F1245490DB004EF371 /* ViewController.swift */,
+				158A96F3245490DB004EF371 /* Main.storyboard */,
+				158A96F9245490DB004EF371 /* Assets.xcassets */,
+				158A96FB245490DB004EF371 /* LaunchScreen.storyboard */,
+				158A96FE245490DB004EF371 /* Info.plist */,
+				158A96F6245490DB004EF371 /* PedidosPicasso.xcdatamodeld */,
+			);
+			path = PedidosPicasso;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		158A96EB245490DA004EF371 /* PedidosPicasso */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 158A9701245490DB004EF371 /* Build configuration list for PBXNativeTarget "PedidosPicasso" */;
+			buildPhases = (
+				158A96E8245490DA004EF371 /* Sources */,
+				158A96E9245490DA004EF371 /* Frameworks */,
+				158A96EA245490DA004EF371 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PedidosPicasso;
+			productName = PedidosPicasso;
+			productReference = 158A96EC245490DA004EF371 /* PedidosPicasso.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		158A96E4245490DA004EF371 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Fco. Javier Román";
+				TargetAttributes = {
+					158A96EB245490DA004EF371 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 158A96E7245490DA004EF371 /* Build configuration list for PBXProject "PedidosPicasso" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 158A96E3245490DA004EF371;
+			productRefGroup = 158A96ED245490DA004EF371 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				158A96EB245490DA004EF371 /* PedidosPicasso */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		158A96EA245490DA004EF371 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				158A96FD245490DB004EF371 /* LaunchScreen.storyboard in Resources */,
+				158A96FA245490DB004EF371 /* Assets.xcassets in Resources */,
+				158A96F5245490DB004EF371 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		158A96E8245490DA004EF371 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				158A96F8245490DB004EF371 /* PedidosPicasso.xcdatamodeld in Sources */,
+				158A96F2245490DB004EF371 /* ViewController.swift in Sources */,
+				158A96F0245490DB004EF371 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		158A96F3245490DB004EF371 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				158A96F4245490DB004EF371 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		158A96FB245490DB004EF371 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				158A96FC245490DB004EF371 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		158A96FF245490DB004EF371 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		158A9700245490DB004EF371 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		158A9702245490DB004EF371 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PedidosPicasso/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.francisoft.PedidosPicasso;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		158A9703245490DB004EF371 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = PedidosPicasso/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.francisoft.PedidosPicasso;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		158A96E7245490DA004EF371 /* Build configuration list for PBXProject "PedidosPicasso" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				158A96FF245490DB004EF371 /* Debug */,
+				158A9700245490DB004EF371 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		158A9701245490DB004EF371 /* Build configuration list for PBXNativeTarget "PedidosPicasso" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				158A9702245490DB004EF371 /* Debug */,
+				158A9703245490DB004EF371 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		158A96F6245490DB004EF371 /* PedidosPicasso.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				158A96F7245490DB004EF371 /* PedidosPicasso.xcdatamodel */,
+			);
+			currentVersion = 158A96F7245490DB004EF371 /* PedidosPicasso.xcdatamodel */;
+			path = PedidosPicasso.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 158A96E4245490DA004EF371 /* Project object */;
+}
