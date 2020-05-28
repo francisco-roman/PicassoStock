@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ProveedoresManager.addNewProveedor(String, logo : UIImage?) -&gt; ():ProveedoresManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "moc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosDelPedidoTVC.pasaProveedor(Proveedores) -&gt; ():ProductosDelPedidoTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productosManager.productos[0].nombre">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos[2].nombre">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos[1].nombre">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NuevoProductoViewController.viewDidLoad() -&gt; ():NuevoProductoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.miProveedor.nombre">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PedidoProductoTableViewCell.calculaPedido(Int) -&gt; Int:PedidoProductoTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lblNombreProducto.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PedidoProductoTableViewCell.calculaPedido(Int?) -&gt; Int:PedidoProductoTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lblNombreProducto.text">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos[0].nombre">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosDelPedidoTVC.guardaPedido(AnyObject) -&gt; ():ProductosDelPedidoTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productosManager.productos">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos[0].udsPedido">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosDelPedidoTVC.guardarPedido(AnyObject) -&gt; ():ProductosDelPedidoTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productosManager.productos[productosManager.productos.count - 1].nombre">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos[0].nombre">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos[0].udsPedido">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosDelPedidoTVC.addPedido(AnyObject) -&gt; ():ProductosDelPedidoTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productosManager.productos[0].udsPedido">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosManager.fetchProductos(Proveedores) -&gt; ():ProductosManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productos">
+            </PersistentString>
+            <PersistentString
+               value = "proveedor.nombre!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NuevoProveedorViewController.mostrarImagePicker(AnyObject) -&gt; ():NuevoProveedorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagePicker">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NuevoProductoViewController.addProducto(AnyObject) -&gt; ():NuevoProductoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "miProveedor.nombre">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager">
+            </PersistentString>
+            <PersistentString
+               value = "self.nombreMiProveedor">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedoresTableViewController.verProductos(AnyObject) -&gt; ():ProveedoresTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "proveedorManager.proveedores[self.tableView.indexPathForSelectedRow!.row].nombre!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosTableViewController.tableView(UITableView, commitEditingStyle : UITableViewCellEditingStyle, forRowAtIndexPath : NSIndexPath) -&gt; ():ProductosTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productoManager.productos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NuevoProductoViewController.imagePickerController(UIImagePickerController, didFinishPickingMediaWithInfo : [String : AnyObject]) -&gt; ():NuevoProductoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgProducto">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedorDelPedidoTVC.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():ProveedorDelPedidoTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigation.topViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PedidoProductoPendienteTVC.compartirPedido(AnyObject) -&gt; ():PedidoProductoPendienteTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NuevoProveedorViewController.imagePickerController(UIImagePickerController, didFinishPickingMediaWithInfo : [String : AnyObject]) -&gt; ():NuevoProveedorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgLogo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosTableViewController.pasaProveedor(Proveedores) -&gt; ():ProductosTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productoManager.productos">
+            </PersistentString>
+            <PersistentString
+               value = "self.miProveedor.nombre">
+            </PersistentString>
+            <PersistentString
+               value = "proveedor.nombre">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PedidoProductoTableViewCell.textOnTextFieldDidChange(UITextField) -&gt; ():PedidoProductoTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txtStock.text">
+            </PersistentString>
+            <PersistentString
+               value = "productosManager.productos[0].udsPedido">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PedidoProductoPendienteTVC.formateaPedido() -&gt; [String]:PedidoProductoPendienteTVC.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductosTableViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():ProductosTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nuevoProductoVC.nombreMiProveedor">
+            </PersistentString>
+            <PersistentString
+               value = "self.nombreMiProveedor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosTableViewController.guardaNombreProveedor(String) -&gt; ():ProductosTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productoManager">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedorDelPedidoTVC.unwindProveedorPedidoView(UIStoryboardSegue) -&gt; ():ProveedorDelPedidoTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productoManager.productos[0].udsPedido">
+            </PersistentString>
+            <PersistentString
+               value = "sourceViewController.productosManager.productos[2].udsPedido">
+            </PersistentString>
+            <PersistentString
+               value = "sourceViewController.productosManager.productos[1].udsPedido">
+            </PersistentString>
+            <PersistentString
+               value = "sourceViewController.productosManager.productos[0].udsPedido">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PedidoProductoPendienteTVC.viewDidLoad() -&gt; ():PedidoProductoPendienteTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productoManager.productos[0].nombre">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedoresTableViewController.tableView(UITableView, didSelectRowAtIndexPath : NSIndexPath) -&gt; ():ProveedoresTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "proveedorManager.proveedores[indexPath.row].nombre!">
+            </PersistentString>
+            <PersistentString
+               value = "delegado">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedoresManager.saveDatabase() -&gt; ():ProveedoresManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "moc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedoresManager.noExisteProveedor(String) -&gt; Bool:ProveedoresManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "try? moc.executeFetchRequest(fetchRequest)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedoresTableViewController.prepareForSegue(UIStoryboardSegue, sender : AnyObject?) -&gt; ():ProveedoresTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigation.topViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosDelPedidoTVC.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath) -&gt; UITableViewCell:ProductosDelPedidoTVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "producto.udsPedido">
+            </PersistentString>
+            <PersistentString
+               value = "producto.nombre">
+            </PersistentString>
+            <PersistentString
+               value = "producto.fechaPedido">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NuevoProveedorViewController.addNewProveedor(AnyObject) -&gt; ():NuevoProveedorViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController?.viewControllers">
+            </PersistentString>
+            <PersistentString
+               value = "proveedoresManager.proveedores">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NuevoProductoViewController.mostrarImagePicker(AnyObject) -&gt; ():NuevoProductoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagePicker">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosManager.fetchProductos(String) -&gt; ():ProductosManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedoresTableViewController.unwindToProveedoresList(UIStoryboardSegue) -&gt; ():ProveedoresTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProveedoresManager.dameProveedor(String) -&gt; Proveedores?:ProveedoresManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fetchResults[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosTableViewController.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath) -&gt; UITableViewCell:ProductosTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productoManager.productos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosTableViewController.pasaProveedor(String) -&gt; ():ProductosTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nombreMiProveedor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductosManager.dameProducto(String) -&gt; Productos?:ProductosManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productos.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

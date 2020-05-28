@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PedidosPicasso.xcodeproj">
+      location = "self:/Users/francis/Documents/Proyectos /PedidosPicasso/PicassoStock.xcodeproj">
    </FileRef>
 </Workspace>

@@ -7,15 +7,15 @@
         <attribute name="stockAlta" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <attribute name="stockBaja" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
         <attribute name="udsPedido" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
-        <relationship name="pertenece" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Proveedores" inverseName="ofrece" inverseEntity="Proveedores" syncable="YES"/>
+        <relationship name="vendedor" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Proveedores" inverseName="productos" inverseEntity="Proveedores" syncable="YES"/>
     </entity>
     <entity name="Proveedores" representedClassName=".Proveedores" syncable="YES">
         <attribute name="logo" optional="YES" attributeType="Binary" syncable="YES"/>
         <attribute name="nombre" attributeType="String" syncable="YES"/>
-        <relationship name="ofrece" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Productos" inverseName="pertenece" inverseEntity="Productos" syncable="YES"/>
+        <relationship name="productos" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Productos" inverseName="vendedor" inverseEntity="Productos" syncable="YES"/>
     </entity>
     <elements>
         <element name="Productos" positionX="-261" positionY="-24" width="128" height="150"/>
-        <element name="Proveedores" positionX="-540" positionY="36" width="128" height="88"/>
+        <element name="Proveedores" positionX="-540" positionY="36" width="128" height="90"/>
     </elements>
 </model>
